@@ -1,6 +1,6 @@
 # dogs-java-script-api
 Wiktoria Cioch-Gradzik “Lions and Tigers and Bears, Oh My!” - Dorthy from the Wizard of Oz wiktorianciochgrad@lewisu.edu 
-based on video: https://www.youtube.com/watch?v=AVmGmLFcukM&t=0s 
+based on video: https://www.youtube.com/watch?v=AVmGmLFcukM&t=0s  made by Brad Schiff 
 
 Requirement 1
 Complete Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await
